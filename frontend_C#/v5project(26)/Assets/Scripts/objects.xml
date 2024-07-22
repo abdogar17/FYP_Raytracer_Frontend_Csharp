@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ItemContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <Item>
+      <name>Bed1</name>
+      <x>-2.122317</x>
+      <y>-7.884327</y>
+      <z>-0.328119725</z>
+      <rx>3.80414455E-09</rx>
+      <ry>-0.0186931416</ry>
+      <rz>-3.23834248E-09</rz>
+    </Item>
+  </Objects>
+</ItemContainer>
